@@ -2,7 +2,7 @@
   import PhoneCard from "./components/PhoneCard.svelte";
   import LoginCard from "./components/LoginCard.svelte";
 
-  let phonesVisible = true;
+  let phonesVisible = false;
 </script>
 
 <main class="w-full h-full grid place-content-center">
@@ -22,6 +22,6 @@
     on:click={() => {
       phonesVisible = true;
     }}
-    class="absolute bottom-0 right-0 z-3 w-24 h-24 bg-red-500"
+    class="absolute bottom-0 right-0 z-3 w-24 h-24"
   ></div>
 </main>
