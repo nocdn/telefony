@@ -26,6 +26,6 @@
     on:click={() => {
       phonesVisible = !phonesVisible;
     }}
-    class="absolute bottom-0 right-0 z-3 w-14 h-36 bg-red-300"
+    class="absolute bottom-0 right-0 z-3 w-14 h-36"
   />
 </main>

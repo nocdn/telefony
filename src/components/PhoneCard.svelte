@@ -32,7 +32,7 @@
     <div class="flex gap-6 items-center">
       <a
         href="tel:{number}"
-        class="text-sm font-mono bg-slate-50 p-2 border-dashed border-2 rounded-lg"
+        class="text-sm font-mono bg-slate-50 p-2 border-dashed border-2 rounded-lg grid grid-cols-1 grid-rows-1"
       >
         {#if tempText}
           {number}
