@@ -14,6 +14,7 @@
         <PhoneCard name="Bartek" number="+44 7419 7405787" pfpcolor="#F9F5FE" />
         <PhoneCard name="Piotrek" number="+44 7421 800644" pfpcolor="#ECFBF4" />
         <PhoneCard name="Aga" number="+44 7869 376262" pfpcolor="#FDF2FB" />
+        <PhoneCard name="ellie Mae 💖" number="+44 7858 256559" pfpcolor="#FFF6E5" />
       </div>
     </div>
   {:else}
